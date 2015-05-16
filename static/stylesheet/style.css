@@ -1,0 +1,15 @@
+* {
+    font-family: Helvetica;
+}
+
+a {
+    color: red;
+}
+
+.container {
+    width: 200px;
+}
+
+.container input {
+    width: 100%;
+}
